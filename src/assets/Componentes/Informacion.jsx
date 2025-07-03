@@ -7,6 +7,7 @@ class Info extends React.Component {
 
   render() {
     return (
+      <di>
       <h3 onClick={() => this.ClickMe()}>
         Lorem ipsum {this.props.city} dolor sit amet consectetur adipisicing
         elit. Voluptatem, deleniti consequatur? Facere dignissimos
@@ -14,6 +15,7 @@ class Info extends React.Component {
         exercitationem nisi accusamus saepe laborum excepturi cumque fugiat modi{" "}
         {this.props.age}.
       </h3>
+      </di>
     );
   }
 }
