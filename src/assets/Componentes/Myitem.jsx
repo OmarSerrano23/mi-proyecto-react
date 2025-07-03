@@ -7,7 +7,7 @@ class Item extends React.Component {
   }
 
   render() {
-    return <h1 onClick={() => this.ClickMe()}>Hello {this.props.name}</h1>
+    return <h1 onClick={() => this.ClickMe()}>Hola {this.props.name}</h1>
   }
 }
 
