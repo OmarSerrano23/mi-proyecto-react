@@ -15,13 +15,6 @@ class Info extends React.Component {
           exercitationem nisi accusamus saepe laborum excepturi cumque fugiat
           modi {this.props.age}.
         </h3>
-
-        <h4>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi
-          voluptas dicta ratione quia distinctio quidem perferendis aspernatur,
-          odio blanditiis sequi consectetur modi. Harum adipisci voluptate
-          praesentium blanditiis suscipit illum labore?
-        </h4>
       </di>
     );
   }
